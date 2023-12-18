@@ -1,6 +1,5 @@
 ## Apple Store clone
 
-Design from - https://dribbble.com/shots/16450285-Equal-Gadgets-Marketplace-Website/attachments/11170630?mode=media
 This is a Next.js Server apple store front with features implements such as
 
 - SSR
@@ -8,6 +7,8 @@ This is a Next.js Server apple store front with features implements such as
 - Cart
 - Stripe Checkout
 - Inventory management using Sanity CMS
+
+Design from - [Dribble](https://dribbble.com/shots/16450285-Equal-Gadgets-Marketplace-Website/attachments/11170630?mode=media)
 
 ## TechStack
 
