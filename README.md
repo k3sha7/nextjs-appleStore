@@ -1,30 +1,24 @@
+## Apple Store clone
+
 Design from - https://dribbble.com/shots/16450285-Equal-Gadgets-Marketplace-Website/attachments/11170630?mode=media
+This is a Next.js Server apple store front with features implements such as
 
-# Next.js + Tailwind CSS Example
+- SSR
+- Google OAuth login
+- Cart
+- Stripe Checkout
+- Inventory management using Sanity CMS
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## TechStack
 
-## Deploy your own
+**FrontEnd :** Next.JS, tailwindCSS, next-auth, Stripe.  
+**Back-End :** Sanity, graphQL
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Screenshots
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-# nextjs-appleStore
+![](https://github.com/k3sha7/nextjs-appleStore/blob/main/public/hero.png)
+![](https://github.com/k3sha7/nextjs-appleStore/blob/main/public/listing.png)
+![](https://github.com/k3sha7/nextjs-appleStore/blob/main/public/cart.png)
+![](https://github.com/k3sha7/nextjs-appleStore/blob/main/public/checkout.png)
+![](https://github.com/k3sha7/nextjs-appleStore/blob/main/public/success.png)
+![](https://github.com/k3sha7/nextjs-appleStore/blob/main/public/sanity.png)

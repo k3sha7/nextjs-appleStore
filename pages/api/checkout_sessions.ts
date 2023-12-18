@@ -26,7 +26,6 @@ export default async function handler(
     }));
 
     try {
-      // Create Checkout Sessions from body params
       const params: Stripe.Checkout.SessionCreateParams = {
         payment_method_types: ["card"],
         line_items: transformedItems,
